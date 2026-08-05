@@ -1,4 +1,4 @@
-#profile-title: V2fast
+#profile-title: V2FAST VPN
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 #announce: V2fast
