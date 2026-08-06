@@ -1,7 +1,7 @@
 #profile-title: V2speed
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=96636764160; expire=0
-#announce: Fkrkskzjcs
+#announce: @v2speed_vpns
 #profile-web-page-url: https://t.me/LunexSubsBot
 #support-url: https://t.me/Zzzzzmmmks
 
