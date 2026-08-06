@@ -1,7 +1,7 @@
 #profile-title: V2SPEED_VPNS
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=0
-#announce: Base64: S29kIG/Dp3NlIGthbmFsZGEgdMOkemVzaSBnb8O9dWzDv2FyCkthbmFsOiBAdjJzcGVlZF92cG5z8J+TjApLYW5hbDogQHYyZmFzdF92cG5z8J+TjA==
+#announce: Base64:S29kIG/Dp3NlIGthbmFsZGEgdMOkemVzaSBnb8O9dWzDv2FyCkthbmFsOiBAdjJzcGVlZF92cG5z8J+TjApLYW5hbDogQHYyZmFzdF92cG5z8J+TjA==
 #profile-web-page-url: https://t.me/LunexSubsBot
 #support-url: https://t.me/Zzzzzmmmks
 
