@@ -1,0 +1,8 @@
+#profile-title: Speed
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#announce: Base64:S29kIG/Dp3NlIGthbmFsZGEgdMOkemVzaSBnb8O9dWzDv2FyCkthbmFsOiBAdjJzcGVlZF92cG5z8J+TjApLYW5hbDogQHYyZmFzdF92cG5z8J+TjA==
+#profile-web-page-url: https://t.me/LunexSubsBot
+#support-url: https://t.me/Zzzzzmmmks
+
+vless://24fb6b07-bbac-4ce5-b2e0-16aeb6a85f9e@199.232.238.146:443?encryption=none&security=tls&sni=accaunt.fastly.com&alpn=h3&fp=chrome&type=xhttp&mode=packet-up&host=lunex.store&path=%2FLunex#%F0%9F%87%AB%F0%9F%87%B7FR
