@@ -1,0 +1,8 @@
+#profile-title: V2SPEED_VPNS
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=0
+#announce: Base64: S29kIG/Dp3NlIGthbmFsZGEgdMOkemVzaSBnb8O9dWzDv2FyCkthbmFsOiBAdjJzcGVlZF92cG5z8J+TjApLYW5hbDogQHYyZmFzdF92cG5z8J+TjA==
+#profile-web-page-url: https://t.me/LunexSubsBot
+#support-url: https://t.me/Zzzzzmmmks
+
+vless://eca83fe5-a31f-43f2-9141-b3ebc3e097a6@8.47.69.0:443?encryption=none&security=tls&sni=x.m-90.pro&type=ws&host=x.m-90.pro&path=t.me%2FTEAMNETGRATISCOL#.%2FNetwork%F0%9F%A6%85
