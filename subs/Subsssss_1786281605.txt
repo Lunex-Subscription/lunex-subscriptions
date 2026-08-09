@@ -1,0 +1,12 @@
+#profile-title: Subsssss
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=53687091200; expire=0
+#announce: Sjhh
+#profile-web-page-url: https://t.me/LunexSubsBot
+#support-url: https://t.me/reaper_online
+
+vless://9ac97c6b-9403-44e4-be6e-5e76491b1c67@201.34.142.29:601?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20TCP?serverDescription=8J2XoPCdl67wnZe/8J2Yh/Cdl7LwnZiFIOKctQ==
+vless://9ac97c6b-9403-44e4-be6e-5e76491b1c67@201.34.142.29:701?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20TCP?serverDescription=8J2XoPCdl67wnZe/8J2Yh/Cdl7LwnZiFIOKctQ==
+vless://9ac97c6b-9403-44e4-be6e-5e76491b1c67@201.34.142.29:901?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Falkenstein%20%7C%20TCP?serverDescription=8J2XoPCdl67wnZe/8J2Yh/Cdl7LwnZiFIOKctQ==
+vless://9ac97c6b-9403-44e4-be6e-5e76491b1c67@201.34.142.29:801?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TCP%20%F0%9F%8E%AE?serverDescription=8J2XoPCdl67wnZe/8J2Yh/Cdl7LwnZiFIOKctQ==
+ss://chacha20-ietf-poly1305:t9EpIGN0msJMhDAB-EJCbBDE2wuWKo47@201.34.142.120:2700#%F0%9F%87%B7%F0%9F%87%BA%20Moscow?serverDescription=8J2XoPCdl67wnZe/8J2Yh/Cdl7LwnZiFIOKctQ==
