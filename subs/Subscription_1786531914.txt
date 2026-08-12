@@ -1,8 +1,0 @@
-#profile-title: Subscription
-#profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=5368709120; expire=0
-#announce: Vpn möhleti: 1günVpn limidi : 5GBVpn ýagdaýy: işleyar✅
-#profile-web-page-url: https://t.me/LunexSubsBot
-#support-url: https://t.me/reaper_online
-
-hysteria2://TzrwoSnu8WTzRgtAA3O6jeMGI3_cMvtA@185.207.66.101:800?sni=www.google.com&pcs=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7&pinSHA256=
