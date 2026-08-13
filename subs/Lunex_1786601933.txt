@@ -1,0 +1,13 @@
+#profile-title: Lunex
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=21474836480; expire=0
+#announce: Lunex
+#profile-web-page-url: https://t.me/LunexSubsBot
+#support-url: https://t.me/tg_lunex
+
+vless://946db93a-d74d-4b62-9f56-9cbad5b0d48c@v2speed:10001?security=tls&type=tcp&headerType=&path=%2FLunex&host=&sni=v2speed_vpns&fp=&allowInsecure=1#%F0%9F%87%AA%F0%9F%87%BA%40V2SPEED_VPNS%3A%20%20%5B100.0%20GB%5D
+vless://946db93a-d74d-4b62-9f56-9cbad5b0d48c@151.101.110.213:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accaunt.fastly.com&fp=chrome&alpn=h3&fragment=3%2C1%2Ctlshello#%F0%9F%87%A9%F0%9F%87%AA%5BDE%5D%20-%20VLESS-xhttp
+vless://946db93a-d74d-4b62-9f56-9cbad5b0d48c@151.101.110.213:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accaunt.fastly.com&fp=chrome&alpn=h3&fragment=3%2C1%2Ctlshello#%F0%9F%87%BA%F0%9F%87%B8%5BUS%5D%20-%20VLESS-xhttp
+vless://946db93a-d74d-4b62-9f56-9cbad5b0d48c@151.101.110.213:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accaunt.fastly.com&fp=chrome&alpn=h3&fragment=3%2C1%2Ctlshello#%F0%9F%87%B3%F0%9F%87%B1%5BNL%5D%20-%20VLESS-xhttp
+vless://946db93a-d74d-4b62-9f56-9cbad5b0d48c@151.101.110.213:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accaunt.fastly.com&fp=chrome&alpn=h3&fragment=3%2C1%2Ctlshello#%F0%9F%87%AB%F0%9F%87%B7%5BFR%5D%20-%20VLESS-xhttp
+vless://946db93a-d74d-4b62-9f56-9cbad5b0d48c@151.101.110.213:443?security=tls&type=xhttp&headerType=&path=%2FLunex&host=lunex.store&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=accaunt.fastly.com&fp=chrome&alpn=h3&fragment=3%2C1%2Ctlshello#%F0%9F%87%AC%F0%9F%87%A7%5BUK%5D%20-%20VLESS-xhttp
