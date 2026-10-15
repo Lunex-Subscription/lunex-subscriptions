@@ -1,0 +1,28 @@
+#profile-title: xs
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+#announce: 
+#profile-web-page-url: https://t.me/LunexSubsBot
+#support-url: https://t.me/Kassacy
+
+#profile-title: base64:VklQIENPUkVYIOKcpg==
+#subscription-userinfo: upload=0; download=1615192; total=1073741824; expire=1792047659
+#announce: base64:4pymIPCdkJXwnZCI8J2QjyDwnZCC8J2QjvCdkJHwnZCE8J2QlyDinKYKCuKaoSBZb3VyIEV4Y2x1c2l2ZSBDb25uZWN0aW9uCgrwn5OFIEV4cGlyZXM6IDE1LjEwLjIwMjYgKDAgZ8O8bikKCvCfmoAgU2VydmVyIGlzc3Vlcz8gU3dpdGNoIHRvIFYyQm94IQ==
+#profile-update-interval: 1
+#subscription-pin: false
+
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@www.canva.com:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=usa1.tolkun-tv.ru&sni=usa1.tolkun-tv.ru&fp=chrome&alpn=h3&fragment=3-3%2C0-1%2Ctlshello&serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%AA%F0%9F%87%BA%20Europe%20%F0%9F%93%B6/%20perfect
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:190?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:190?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%B8%F0%9F%87%AA%20Stockholm%20%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:191?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:190?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:191?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%B3%F0%9F%87%B1Amsterdam%20%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:190?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%AC%F0%9F%87%A7%20Manchester%20%F0%9F%9A%80
+hysteria2://UsztHn933CicJ_WlYTB9w8QXg-8K_H9-@2.28.195.246:880?sni=xorxs.tozanjyk.ru&serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%B3%F0%9F%87%B1Amsterdam%20%F0%9F%93%B6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZlBBUXpZaTVkVTk5MUZMMFRlMUNqR2NuTVNnaDJ2ZQ==@2.28.195.246:192?serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%B7%F0%9F%87%BA%20Moskov%20%F0%9F%8E%AE
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@138.199.37.227:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=rigavpstm.b-cdn.net&sni=bunny.net&alpn=h3&fragment=3-3%2C0-1%2Ctlshello&serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%90%86%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%B2%20Youtube%20%F0%9F%9A%80
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@138.199.37.227:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=finlandbunnyold.b-cdn.net&sni=bunny.net&alpn=h3&fragment=3-3%2C0-1%2Ctlshello&serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%AB%F0%9F%87%AE%20%F0%9D%90%85%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%20%20Tiktok%20%E2%84%B9%EF%B8%8F
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@138.199.37.227:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=francegamestm.b-cdn.net&sni=bunny.net&alpn=h3&fragment=3-3%2C0-1%2Ctlshello&serverDescription=VklQIENPUkVYIOKcpg==#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9D%90%8D%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%AC%20Instegram
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@151.101.3.6:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=kimsenfast.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=apps.apple.com&alpn=h3&serverDescription=VklQIENPUkVYIOKcpg==#FINLAND%20%7C%20FS%20%F0%9F%87%AB%F0%9F%87%AE
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@151.101.3.6:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=kimsenfast.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=apps.apple.com&alpn=h3&serverDescription=VklQIENPUkVYIOKcpg==#NETHERLANDS%20%7C%20FS%20%F0%9F%87%B3%F0%9F%87%B1
+vless://4bab3bc5-ee2f-4dd8-8a9f-f076e2d65c33@151.101.3.6:443?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=kimsenfast.global.ssl.fastly.net&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=apps.apple.com&alpn=h3&serverDescription=VklQIENPUkVYIOKcpg==#FRANCE%20%7C%20FS%20%F0%9F%87%AB%F0%9F%87%B7
